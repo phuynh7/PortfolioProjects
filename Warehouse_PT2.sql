@@ -11,6 +11,8 @@
 -- #9: Provide a list of batches for each warehouse- list the warehouse name, batch number, size, and date in.
 -- #10: List the toatl number of batches for a particular part number.
 
+-- Skills used: Joins, Inner and Outer Joins
+
 -- #1
 select EMP_LNAME as Lastname, EMP_FNAME as Firstname
 from employee 
