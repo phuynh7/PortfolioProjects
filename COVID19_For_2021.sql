@@ -1,5 +1,5 @@
 /*
-Covid 19 Data Exploration with the Data of 2023
+Covid 19 Data Exploration with the Data of 2021
 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 */
